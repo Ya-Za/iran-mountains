@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Damavand",
+        "elevation": 5609,
+        "coordinates": [52.11, 35.9548],
+        "wiki": "https://en.wikipedia.org/wiki/Mount_Damavand"
+    },
+    {
+        "name": "Alam-Kuh",
+        "elevation": 4805,
+        "coordinates": [50.9625, 36.3758],
+        "wiki": "https://en.wikipedia.org/wiki/Alam-Kuh"
+    },
+    {
+        "name": "Dena",
+        "elevation": 4409,
+        "coordinates": [51.4375, 30.9517],
+        "wiki": "https://en.wikipedia.org/wiki/Dena"
+    },
+    {
+        "name": "Zard-Kuh",
+        "elevation": 4221,
+        "coordinates": [50.1112, 32.3297],
+        "wiki": "https://en.wikipedia.org/wiki/Zard-Kuh"
+    },
+    {
+        "name": "Sabalan",
+        "elevation": 3933,
+        "coordinates": [47.8368, 38.267],
+        "wiki": "https://en.wikipedia.org/wiki/Sabalan"
+    },
+    {
+        "name": "Sahand",
+        "elevation": 3707,
+        "coordinates": [46.2919, 38.08],
+        "wiki": "https://en.wikipedia.org/wiki/Sabalan"
+    },
+    {
+        "name": "Takht-e Suleyman",
+        "elevation": 4659,
+        "coordinates": [47.1133, 36.4009],
+        "wiki": "https://en.wikipedia.org/wiki/Mount_Takht-e_Suleyman"
+    },
+    {
+        "name": "Shir Kuh",
+        "elevation": 4055,
+        "coordinates": [54.0683, 31.6058],
+        "wiki": "https://en.wikipedia.org/wiki/Shir_Kuh"
+    },
+    {
+        "name": "Taftan (volcano)",
+        "elevation": 3941,
+        "coordinates": [61.1325, 28.6],
+        "wiki": "https://en.wikipedia.org/wiki/Taftan_(volcano)"
+    }
+]
